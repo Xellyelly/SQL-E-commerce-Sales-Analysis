@@ -83,9 +83,9 @@ The growth rate across the years is positive but low
 •	There is no significant difference across the year, but sales are affected during holiday periods
 •	Returning customers are likely to churn due to unsatisfaction
 
-## **Recommendations:**
-•	Offering discounts to low-spending customers.
-•	Implementing loyalty rewards for frequent shoppers.
+## **Recommendations**
+•	Offering discounts to low-spending customers
+•	Implementing loyalty rewards for frequent shoppers
 •	Set a special recognition gift for high valued customers
 •	Increase advert during holidays and festive periods
 •	Create a friendly survey for customers to know how to serve them better 
