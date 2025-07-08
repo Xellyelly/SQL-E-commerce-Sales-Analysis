@@ -76,6 +76,8 @@ on o.product_id=p.product_id) as sub_query
 -	Yearly growth rate from 2021 to 2022 is 2.53%, with change in revenue from $8,340,000 to $8,550,000
 The growth rate across the years is positive but low
 ![Screenshot 2025-03-14 164254](https://github.com/user-attachments/assets/f0eb7228-0cf1-4227-892d-b3f8dcb2e546)
+- [To view power bi dashboard page 1 click here](https://ibb.co/KpWy1X2S)
+- [To view power bi dashboard page 2 click here](https://ibb.co/dwjH9vFg)
 
 ## **8.Conclusion and Recommendations**
 -	There is positive growth grate across the year but its low 
